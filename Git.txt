@@ -7,5 +7,7 @@ hgfgfvvf
 hffhyfh
 
 
+hi im am a new line added
+
 
 after commit
